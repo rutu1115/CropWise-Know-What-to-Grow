@@ -3,7 +3,7 @@
 An intelligent Machine Learning-based system that predicts the most suitable crop to cultivate based on environmental and soil parameters. This tool is especially useful for farmers, agronomists, and agriculture researchers to make informed crop selection decisions.
 
 ---
-![CropWise](CropWise-Know-What-to-Grow/images/Screenshot (127).png)
+![CropWise-Know-What-to-Grow](/images/Screenshot (127).png)
 
 ## 📌 Features
 
